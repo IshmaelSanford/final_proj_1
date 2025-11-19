@@ -1,0 +1,55 @@
+# Compiled executables
+*.exe
+*.out
+a.out
+
+# MSVC build artifacts
+*.obj
+*.pdb
+*.ilk
+*.idb
+*.iobj
+*.ipdb
+
+# MinGW/GCC artifacts
+*.o
+*.a
+*.so
+*.dll
+
+# Debug and release folders
+Debug/
+Release/
+x64/
+x86/
+
+# Visual Studio Code
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.sln
+*.vcxproj
+*.vcxproj.filters
+
+# Build directories
+build/
+bin/
+obj/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+*~
