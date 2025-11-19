@@ -20,6 +20,7 @@
 #include <cctype>
 #include <ctime>
 #include "stemmer.h"
+#include <climits>
 
 #ifdef _WIN32
 #include <conio.h>
